@@ -12,3 +12,4 @@
 10. edit `server/auth.ts` according to https://github.com/codingwithmanny/t3-app-siwe/tree/fix/next-auth-4.21.1
 11. edit `pages/api/auth/[...nextauth].ts` according to https://github.com/codingwithmanny/t3-app-siwe/tree/fix/next-auth-4.21.1
 12. edit `_app.tsx` and `index.tsx` as usual
+13. --
